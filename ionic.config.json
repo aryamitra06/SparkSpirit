@@ -1,0 +1,7 @@
+{
+  "name": "SparkSpirit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
